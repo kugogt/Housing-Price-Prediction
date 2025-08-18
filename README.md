@@ -4,7 +4,7 @@ Ciao! 👋 This is my personal **Machine Learning** project, originally born fro
 I decided to **rebuild the entire pipeline in Python** to deepen my understanding of the process.  
 
 Compared to the original KNIME version, this Python implementation adds several new components and improvements.  
-The aim here is not to achieve *state-of-the-art* performance, but to build a **clear, robust, and reusable pipeline** — something that can serve as a solid base for future projects.
+The aim here is not to achieve *state-of-the-art* performance, but to build a **clear, robust and reusable pipeline**: something that can serve as a solid base for future projects.
 
 ---
 
