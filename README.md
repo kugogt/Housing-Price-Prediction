@@ -52,6 +52,7 @@ The project uses the [**House Sales in King County, USA** dataset](https://www.k
 ## 🗂️ Repository Structure
 - `ML_python.ipynb/` -> Jupyter notebooks for data exploration, preprocessing, and modeling
 - `Data/` -> X_train and test & X_train and test after feature selection
+- `Pictures/` -> Some graphs obtained during the development 
 
 - ## 📬 Contact
 Since i cannot the training results on Github, if you need those, message me!
