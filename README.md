@@ -8,6 +8,18 @@ The aim here is not to achieve *state-of-the-art* performance, but to build a **
 
 ---
 
+## Dataset
+The project uses the [**House Sales in King County, USA** dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) from Kaggle.  
+
+---
+
+## Repository Structure
+- `ML_python.ipynb/` -> Jupyter notebooks for data exploration, preprocessing, and modeling
+- `Data/` -> X_train and test & X_train and test after feature selection
+- `Pictures/` -> Some graphs obtained during the development 
+
+---
+
 ## Goal
 The primary goal was to create a **clean and modular pipeline** that is:
 - Easy to understand
@@ -64,15 +76,3 @@ Price Interval with MAPIE
 | 4. High-Mid Price (60-80%)    | 91.4%   | 280,552               | 605,485          | 1297  |
 | 5. Highest Price (Top 20%)    | 85.0%   | 575,206               | 1,083,360        | 1297  |
 
-
----
-
-## Dataset
-The project uses the [**House Sales in King County, USA** dataset](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction) from Kaggle.  
-
----
-
-## Repository Structure
-- `ML_python.ipynb/` -> Jupyter notebooks for data exploration, preprocessing, and modeling
-- `Data/` -> X_train and test & X_train and test after feature selection
-- `Pictures/` -> Some graphs obtained during the development 
